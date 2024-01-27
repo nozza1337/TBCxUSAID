@@ -29,7 +29,7 @@
 
 როგორ გავუშვათ პროექტი / How to launch project
 
-1 -> სასურველ ტერმინალში ვიყენებთ ბრძანებას / Use Command = git clone https://github.com/nozza1337/TBCxUSAID.git
+    1 -> სასურველ ტერმინალში ვიყენებთ ბრძანებას / Use Command = git clone https://github.com/nozza1337/TBCxUSAID.git
 
     2 ->გადავდივართ რეპოზიტორიაში ბრძანებით / Go to the cloned repository = cd TBCxUSAID
 
