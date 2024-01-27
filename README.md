@@ -17,6 +17,8 @@
 │   └── (TBCxUSAID/Fonts)
 │
 └── README.md
+```
+```bash
 გამოყენებული ტექნოლოგიები/Technologies Used
 1 ---> HTML
 2 ---> CSS
