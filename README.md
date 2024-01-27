@@ -1,5 +1,5 @@
 პროექტის სტრუქტურა/Project Structure
-
+```bash
 /TBCXUSAID
 │
 ├── index.html
@@ -17,7 +17,6 @@
 │   └── (TBCxUSAID/Fonts)
 │
 └── README.md
-
 გამოყენებული ტექნოლოგიები/Technologies Used
 1 ---> HTML
 2 ---> CSS
@@ -26,19 +25,18 @@
 3 ---> JavaScript
     │
     └──Vanilla JavaScript
-
-
+```
 
 როგორ გავუშვათ პროექტი / How to launch project
 
-სასურველ ტერმინალში ვიყენებთ ბრძანებას / Use Command = git clone https://github.com/nozza1337/TBCxUSAID.git
+1 -> სასურველ ტერმინალში ვიყენებთ ბრძანებას / Use Command = git clone https://github.com/nozza1337/TBCxUSAID.git
 
-გადავდივართ რეპოზიტორიაში ბრძანებით / Go to the cloned repository = cd TBCxUSAID
+    2 ->გადავდივართ რეპოზიტორიაში ბრძანებით / Go to the cloned repository = cd TBCxUSAID
 
 ან / Or
 
-გადმოვწეროთ კოდი ზიპ ფაილით ლინკიდან / Download code as a zip file from = https://github.com/nozza1337/TBCxUSAID
+1 -> გადმოვწეროთ კოდი ზიპ ფაილით ლინკიდან / Download code as a zip file from = https://github.com/nozza1337/TBCxUSAID
 
-ამოვაარქივოთ / Unzip 
+    2->ამოვაარქივოთ / Unzip 
 
-გავუშვათ სასურველი ბრაუზერიდან / Launch from desired browser = index.html 
+    3->გავუშვათ სასურველი ბრაუზერიდან / Launch from desired browser = index.html 
