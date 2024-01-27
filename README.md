@@ -18,8 +18,9 @@
 │
 └── README.md
 ```
-```bash
 გამოყენებული ტექნოლოგიები/Technologies Used
+```bash
+
 1 ---> HTML
 2 ---> CSS
     │
